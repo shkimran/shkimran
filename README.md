@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="banner"/>
+<!-- <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="banner"/> -->
 <h1 align="center">Hi 👋, I'm Imran Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="gif"/>
