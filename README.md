@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shkimran" alt="shkimran" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **javascript, reactjs,css, scss boostrap, materail ui, tailwind css**
 
